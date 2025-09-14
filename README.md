@@ -1,6 +1,8 @@
-<img width="1920" height="968" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/9f1d5bc3-cb9e-4b0a-bb8c-8591333e1adb" />
-<img width="1920" height="961" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/cc78a8f7-766d-49a9-adb5-2d27796cd9cc" />
-<img width="1920" height="970" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/1167556b-bc42-4ecf-9160-0515b1f868ab" />
+## 📸 Screenshots
+
+<img src="public/images/image1.png" alt="App Screenshot" width="1920" height="960">
+<img src="public/images/image2.png" alt="App Screenshot" width="1920" height="960">
+<img src="public/images/image3.png" alt="App Screenshot" width="1920" height="960">
 
 # 🌦️ Weather Forecast App
 
